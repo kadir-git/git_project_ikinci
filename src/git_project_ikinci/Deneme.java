@@ -8,7 +8,7 @@ public class Deneme {
 		
 		System.out.println("ikinci satir Code'um");
 		
-		System.out.println(remote degisiklik");
+		System.out.println("remote degisiklik");
 
 	}
 
