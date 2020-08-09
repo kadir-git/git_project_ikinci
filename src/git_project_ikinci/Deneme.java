@@ -11,6 +11,8 @@ public class Deneme {
 		System.out.println("remote degisiklik");
 		
 		System.out.println("Kadir");
+		
+		System.out.println("Cakisma - Kadir");
 
 	}
 
